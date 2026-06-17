@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(194, 255, 182);
+    background-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-display: auto;
+    text-align: center;
+    color: #5723a5b1;
+}
+
+.container {
+    width: 800px;
+    height: 200px;
+    background-color: transparent;
+    /* no color inside */
+    border: 2px solid rgb(104, 57, 158);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    gap: 20px;
+}
