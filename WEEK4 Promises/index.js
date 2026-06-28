@@ -10,7 +10,7 @@ class Rectangle {
     }
     paint() {
         console.log(`Painting with color ${this.color}`);
-    }
+    } 
     
 }
     const rect = new Rectangle(2, 4, "red");
