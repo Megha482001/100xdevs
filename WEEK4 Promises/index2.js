@@ -1,4 +1,4 @@
-const d = new Date();
-console.log(d.getDay());
-console.log(d.getMonth());
-console.log(d.getFullYear());
+const t = new Time();
+console.log(t.getSecond());
+console.log(t.getMinute());
+console.log(t.getHour());
